@@ -539,11 +539,11 @@ footer{
     }
 }
 
-/* @media (max-width: 768px) {
+ @media (max-width: 768px) {
     img {
         display: none; 
     }
-}  sembunyikan foto di tampilan mobile*/
+} /* sembunyikan foto di tampilan mobile*/
 
 /* ----- MEDIA QUERY == 900px / RESPONSIVE ----- */
 @media only screen and (max-width: 900px) {
